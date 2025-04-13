@@ -18,3 +18,5 @@ function generateLottoNumbers() {
 }
 
 generateLottoNumbers();
+ 
+// 혼자서는 도저히 코드를 못짜겠어서 지피티한테 코드를 받고 최대한 해석했습니다
